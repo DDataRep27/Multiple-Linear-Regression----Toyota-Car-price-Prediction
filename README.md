@@ -1,2 +1,8 @@
 # Multiple-Linear-Regression----Toyota-Car-price-Prediction
-Prepare a prediction model for predicting price of Toyota car.
+
+
+## Consider only the below columns and prepare a prediction model for predicting Price.
+
+*Corolla<-Corolla[c("Price","Age_08_04","KM","HP","cc","Doors","Gears","Quarterly_Tax","Weight")]*
+
+
